@@ -11,4 +11,5 @@ func main() {
 	fmt.Printf("Radius circle is: %d sm.\n", circleRadius)
 	fmt.Println("Formula for calculate the area of a circle")
 	fmt.Printf("Area circle is %f32 sm2.\n", circleArea)
+	fmt.Println("Area circle is %f32 sm2.\n", circleArea)
 }
